@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e848499d-d938-4d14-934e-aa739cbbe236" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Mainrunner111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test_main_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/test_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inter/test_get_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rununittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testRestful.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/lib/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/appkeys.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/appkeys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/Encrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/Encrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/excelresult.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/excelresult.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/mail.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/mail.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conf/conf.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/module1.html" beforeDir="false" afterPath="$PROJECT_DIR$/conf/module1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/userinfo.sql" beforeDir="false" afterPath="$PROJECT_DIR$/conf/userinfo.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fanshe.py" beforeDir="false" afterPath="$PROJECT_DIR$/testfanshe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inter/interkeys.py" beforeDir="false" afterPath="$PROJECT_DIR$/inter/interkeys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inter/soapkeys.py" beforeDir="false" afterPath="$PROJECT_DIR$/inter/soapkeys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inter/testhttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/inter/testhttp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/App.xls" beforeDir="false" afterPath="$PROJECT_DIR$/lib/App.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/HTTP-不加密.xls" beforeDir="false" afterPath="$PROJECT_DIR$/lib/HTTP-不加密.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/HTTP接口用例.xls" beforeDir="false" afterPath="$PROJECT_DIR$/lib/HTTP接口用例.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Web.xls" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Web.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/logs/all.log" beforeDir="false" afterPath="$PROJECT_DIR$/lib/logs/all.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runnittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/rununittest1111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/testJsonpath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsoap.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsoap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testzhihu.py" beforeDir="false" afterPath="$PROJECT_DIR$/testzhihu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/Pramatest.py" beforeDir="false" afterPath="$PROJECT_DIR$/utest/Pramatest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/WebTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/utest/UtestWebTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/datadriven.py" beforeDir="false" afterPath="$PROJECT_DIR$/utest/datadriven.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/runTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/utest/runTests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utest/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/utest/runner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/webkeys.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/webkeys.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1afQjuxA3hXkvVzaJsQl64ReOvJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonPro\MyTestFrame4" />
+      <recent name="D:\PythonPro\MyTestFrame4\web\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.rununittest">
+    <configuration name="rununittest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyTestFrame4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rununittest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_get_data" type="PythonConfigurationType" factoryName="Python">
+      <module name="MyTestFrame4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inter/test_get_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_main_thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyTestFrame4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/test_main_thread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testosread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyTestFrame4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\PythonPro\MyTestFrame4\app\test_os_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for runTests.DataRunner" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MyTestFrame4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;runTests.DataRunner&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in runTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="MyTestFrame4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/utest/runTests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rununittest" />
+        <item itemvalue="Python.test_main_thread" />
+        <item itemvalue="Python.testosread" />
+        <item itemvalue="Python tests.Unittests in runTests.py" />
+        <item itemvalue="Python tests.Unittests for runTests.DataRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e848499d-d938-4d14-934e-aa739cbbe236" name="Default Changelist" comment="" />
+      <created>1587124306602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587124306602</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="36" key="GridCell.Tab.0.bottom" timestamp="1588236703335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="36" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588236703335" />
+    <state width="1515" height="36" key="GridCell.Tab.0.center" timestamp="1588236703335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="36" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588236703335" />
+    <state width="1515" height="36" key="GridCell.Tab.0.left" timestamp="1588236703335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="36" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588236703335" />
+    <state width="1515" height="36" key="GridCell.Tab.0.right" timestamp="1588236703335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="36" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588236703335" />
+    <state width="943" height="138" key="GridCell.Tab.1.bottom" timestamp="1587195561892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="943" height="138" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587195561892" />
+    <state width="943" height="138" key="GridCell.Tab.1.center" timestamp="1587195561892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="943" height="138" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587195561892" />
+    <state width="943" height="138" key="GridCell.Tab.1.left" timestamp="1587195561892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="943" height="138" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587195561892" />
+    <state width="943" height="138" key="GridCell.Tab.1.right" timestamp="1587195561892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="943" height="138" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587195561892" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1587357217007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587357217007" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1587694074359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587694074359" />
+  </component>
+</project>
